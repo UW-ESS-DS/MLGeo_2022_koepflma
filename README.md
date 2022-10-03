@@ -10,5 +10,8 @@ Maschine Learning is a new tool to classify a dataset of raw data or already ext
 ## Project Goal
 The goal of this project has yet to be found.
 
+## Project Description
+No specific project yet.
+
 ## Installation
 I will add some lines of code later.
