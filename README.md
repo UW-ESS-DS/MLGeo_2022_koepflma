@@ -13,5 +13,8 @@ The goal of this project has yet to be found.
 ## Project Description
 No specific project yet.
 
+## Project Workflow
+No specific workflow yet.
+
 ## Installation
 I will add some lines of code later.
